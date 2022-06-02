@@ -10,5 +10,5 @@
 
 - 在 快捷方式 种添加命令行参数 `--disable-web-security`
 
-![OBS](\img\obs.png)
+![OBS](/img/obs.png)
  
